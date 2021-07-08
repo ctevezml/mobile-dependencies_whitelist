@@ -1181,6 +1181,12 @@
       "version": "^~>\\s?7.[0-9]+$"
     },
     {
+      "name": "iOSSnapshotTestCase",
+      "source": "public",
+      "target": "test",
+      "version": "6.2.0"
+    },
+    {
       "name": "OCMock",
       "source": "public",
       "target": "test",
