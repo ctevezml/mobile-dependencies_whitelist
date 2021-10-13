@@ -1178,7 +1178,7 @@
       "name": "Nimble",
       "source": "public",
       "target": "test",
-      "version": "^~>\\s?7.[0-9]+$"
+      "version": "^~>\\s?9.[0-9]+$"
     },
     {
       "name": "iOSSnapshotTestCase",
